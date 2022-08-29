@@ -1,6 +1,6 @@
 # Hallo, ich heiße Vlad.
 
-<img style="float: right;" src="https://i.ds.at/JQ5XVA/rs:fill:750:0/plain/2015/06/13/Unix-System---I-know-this.jpg" width="600">
+<img style="float: right;" src="https://i.ds.at/JQ5XVA/rs:fill:750:0/plain/2015/06/13/Unix-System---I-know-this.jpg" width="500">
 
 ## Ich bin UI/UX Designer und Web Developer.
 
